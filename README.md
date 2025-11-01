@@ -1,4 +1,4 @@
-# 🧠 Java JDBC Employee Database App (Internship Task 7)
+# 🧠 Java JDBC Employee Database App
 
 ## 🎯 Objective
 Build a **Java console-based Employee Management App** using **JDBC** to perform **CRUD operations** on a **MySQL database**.
